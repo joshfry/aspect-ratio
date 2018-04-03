@@ -1,0 +1,23 @@
+{
+  "name": "@joshfry/aspectratio",
+  "version": "0.1.0",
+  "description": "Aspect ratio helper functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshfry/aspect-ratio.git"
+  },
+  "keywords": [
+    "aspect",
+    "ratio"
+  ],
+  "author": "Josh Fry <joshdfry@me.com> (http://joshfry.me/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshfry/aspect-ratio/issues"
+  },
+  "homepage": "https://github.com/joshfry/aspect-ratio#readme"
+}
