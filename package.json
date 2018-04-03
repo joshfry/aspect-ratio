@@ -1,6 +1,6 @@
 {
   "name": "@joshfry/aspect-ratio",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Aspect ratio helper functions",
   "main": "index.js",
   "scripts": {

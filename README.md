@@ -1,5 +1,4 @@
-# Aspect Ratio Helpers
-
+# Aspect Ratio helper functions
 
 | Method | Description |
 | :--- | :--- |
@@ -7,6 +6,18 @@
 | `getFraction(w, h);` | Returns an object: `{ nominator, denominator }`.
 | `getAspectRatioString(w, h);` | Returns a string, like: `"4:3"` |
 | `getAspectRatioPercentage(w, h);` | Returns aspect ratio percentage as a number `>= 1`. |
+
+## Install
+
+- **[npm](https://www.npmjs.com/package/@joshfry/aspect-ratio)** ```$ npm i @joshfry/aspect-ratio```
+- **[yarn](https://yarnpkg.com/en/package/@joshfry/aspect-ratio)** ```$ yarn add @joshfry/aspect-ratio```
+
+## Usage
+
+```
+import { getAspectRatioPercentage } from '@joshfry/aspect-ratio';
+const aspectRatioPercentage = getAspectRatioPercentage(w, h);
+```
 
 ## Test
 
